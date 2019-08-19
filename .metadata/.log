@@ -590,3 +590,18 @@ org.eclipse.swt.SWTException: Widget is disposed
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-18 12:57:13.974
 !MESSAGE executing callback sts4.classpath.eegNufOS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-18 23:15:14.018
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.eegNufOS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-18 23:15:14.028
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.eegNufOS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-18 23:15:14.036
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-18 23:15:14.043
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.eegNufOS => OK
+
+!ENTRY org.eclipse.ui 2 2 2019-08-18 23:15:18.368
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
